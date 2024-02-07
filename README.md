@@ -1,4 +1,12 @@
-### Hi there 👋
+### About Me
+
+I am a Software Engineer with 6+ years of experience proficient in full-stack development, C++/Java applications, software design and problem-solving. I am also a strong fan of AI and Machine Learning: I really love performing experiments with Tensorflow 🤖 <br>
+Here on my github you can find some of the projects I've made during my career and several experiments.
+
+🔗 &nbsp;**I am here too:**
+<p align="left">
+<a href="https://linkedin.com/in/giorgi-andrea/" target="blank"><img align="center" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" height="40" width="40" /></a>
+
 
 <!--
 **a-giorgi/a-giorgi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
